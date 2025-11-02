@@ -32,5 +32,3 @@ In the data visualization process, i have used various charts and have dived dee
 
 So, i explored and analyzed the data to discover important factors that govern the bookings.
 parking spaces, among other things. All personally identifying information has been removed from the data. Explore and analyze the data to discover important factors that govern the bookings.
-
-Define Your Business Objective?
